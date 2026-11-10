@@ -1,0 +1,27 @@
+CONQUER ACADEMY - PROYECTO HTML
+
+Contenido:
+- index.htm: página de inicio (nombre solicitado en el enunciado).
+- quienes-somos.htm: información de la academia.
+- cursos.htm: listado de cursos.
+- curso-desarrollo-web.htm y curso-inteligencia-artificial.htm: detalles de cursos.
+- blog.htm: listado de noticias.
+- noticia-html.htm y noticia-estudio.htm: detalles de noticias.
+- registro.htm: formulario con los campos solicitados.
+- login.htm: formulario de inicio de sesión.
+- contacto.htm: datos de contacto, mapa y formulario.
+- aviso-legal.htm: página legal.
+- imagenes/: ilustraciones locales en formato SVG.
+
+Cómo abrirlo en VS Code:
+1. Descomprime el ZIP.
+2. En VS Code selecciona File > Open Folder y abre la carpeta conquer_academy_html.
+3. Abre index.htm.
+4. Para verlo, haz clic derecho sobre index.htm y selecciona Open with Live Server si tienes esa extensión; si no, abre el archivo index.htm directamente desde tu explorador.
+
+Notas:
+- Se han utilizado enlaces relativos y etiquetas semánticas HTML.
+- Cada página tiene su propio title y meta description.
+- Los formularios son demostrativos y no envían datos.
+- El proyecto prioriza HTML y estructura, tal como pide el enunciado; no incluye diseño CSS ni JavaScript.
+- La academia y los cursos son contenidos de ejemplo.
